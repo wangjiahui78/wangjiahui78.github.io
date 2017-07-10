@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://xiaohei.studio/"/>
+  <link href="http://www.xiaohei.studio/"/>
   <updated>2017-07-07T07:01:04.700Z</updated>
-  <id>http://xiaohei.studio/</id>
+  <id>http://www.xiaohei.studio/</id>
   
   <author>
     <name>Blackie</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>小黑是个大帅哥</title>
-    <link href="http://xiaohei.studio/2017/07/07/%E5%B0%8F%E9%BB%91%E6%98%AF%E4%B8%AA%E5%A4%A7%E5%B8%85%E5%93%A5/"/>
-    <id>http://xiaohei.studio/2017/07/07/小黑是个大帅哥/</id>
+    <link href="http://www.xiaohei.studio/2017/07/07/%E5%B0%8F%E9%BB%91%E6%98%AF%E4%B8%AA%E5%A4%A7%E5%B8%85%E5%93%A5/"/>
+    <id>http://www.xiaohei.studio/2017/07/07/小黑是个大帅哥/</id>
     <published>2017-07-07T07:01:04.000Z</published>
     <updated>2017-07-07T07:01:04.700Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>posthello world</title>
-    <link href="http://xiaohei.studio/2017/07/07/posthello-world/"/>
-    <id>http://xiaohei.studio/2017/07/07/posthello-world/</id>
+    <link href="http://www.xiaohei.studio/2017/07/07/posthello-world/"/>
+    <id>http://www.xiaohei.studio/2017/07/07/posthello-world/</id>
     <published>2017-07-07T01:14:37.000Z</published>
     <updated>2017-07-07T01:14:37.869Z</updated>
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://xiaohei.studio/2017/07/06/hello-world/"/>
-    <id>http://xiaohei.studio/2017/07/06/hello-world/</id>
+    <link href="http://www.xiaohei.studio/2017/07/06/hello-world/"/>
+    <id>http://www.xiaohei.studio/2017/07/06/hello-world/</id>
     <published>2017-07-06T08:53:28.393Z</published>
     <updated>2017-07-06T08:53:28.395Z</updated>
     
